@@ -1,0 +1,19 @@
+.div {
+    display: inline-block;
+    padding: center;
+}
+.inline-block {
+    display: inline-block;
+    padding: 15px;
+    background-color: palegreen;
+  }
+.className left {
+    display: inline-block;
+    padding: 15px;
+    background-color: darkgreen; 
+}
+.className right {
+    display: inline-block;
+    padding:15px;
+    background-color: white;
+}
